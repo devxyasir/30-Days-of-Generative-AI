@@ -30,7 +30,7 @@ The dataset consists of **500+ conversational entries**, each representing a sin
 
 Each entry maintains a consistent role-based format to mimic natural dialogue, making the dataset ideal for conversational fine-tuning tasks.
 
----
+--- 
 
 ### 📘 Sample Entry
 
