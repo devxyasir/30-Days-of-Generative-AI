@@ -115,6 +115,3 @@ Let’s grow in AI together! 💡
 **📌 Don’t forget to ⭐️ the repo if you find it useful!**
 Let’s learn, build, and master GenAI — one day at a time.
 
-```
-
----
